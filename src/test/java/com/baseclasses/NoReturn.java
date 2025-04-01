@@ -5,7 +5,7 @@ public class NoReturn {
 		mult(12,12);
 		
 }
-	public static void  mult(int x,int y) {
+       static void  mult(int x,int y) {
 		int z= x*y;
 		System.out.println(z);
 	}
